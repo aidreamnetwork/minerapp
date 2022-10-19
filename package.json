@@ -1,0 +1,24 @@
+{
+  "name": "ai-miner",
+  "version": "0.1.0",
+  "description": "A simple Miner app instantly up and running",
+  "main": "server.js",
+  "scripts": {
+    "start": "node adn-miner.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.1",
+    "nft.storage": "^7.0.0",
+    "node-fetch": "^2.6.6",
+    "wombo-dream-api": "^0.1.6"
+  },
+  "repository": {
+    "url": "https://github.com/aidreamnetwork/minerapp"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "aidreamnetwork"
+  ]
+}
